@@ -1,5 +1,4 @@
-👋 Hi, I’m @Mysurii
-
+👋 Hello
 
 <!---
 Mysurii/Mysurii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
